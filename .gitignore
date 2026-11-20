@@ -1,0 +1,16 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Transcription results and inputs
+out/
+bench/
+*.log
+*.wav
+*.m4a
+*.mp3
+*.mp4
+
+# macOS
+.DS_Store
